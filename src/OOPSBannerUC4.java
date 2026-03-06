@@ -9,7 +9,7 @@ public class OOPSBannerUC4 {
         banner[2] = String.join(" ", "*     *", "*     *", "*     *", "*      ");
         banner[3] = String.join(" ", "*     *", "*     *", "****** ", " ***** ");
         banner[4] = String.join(" ", "*     *", "*     *", "*      ", "      * ");
-        banner[5] = String.join(" ", "*     *", "*     *", "*      ", "      * ");
+        banner[5] = String.join(" ", "*     *", "*     *", "*      ", "    * ");
         banner[6] = String.join(" ", " ***** ", " ***** ", "*      ", "****** ");
 
         for (String line : banner) {
