@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "BannerUC7",
+            "request": "launch",
+            "mainClass": "BannerUC7",
+            "projectName": "oopsbannerapp_ae356853"
+        },
+        {
+            "type": "java",
             "name": "BannerUC6",
             "request": "launch",
             "mainClass": "BannerUC6",
