@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "BannerUC5",
+            "request": "launch",
+            "mainClass": "BannerUC5",
+            "projectName": "oopsbannerapp_ae356853"
+        },
+        {
+            "type": "java",
             "name": "OOPSBannerUC5",
             "request": "launch",
             "mainClass": "OOPSBannerUC5",
