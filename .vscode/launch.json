@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "BannerUC8",
+            "request": "launch",
+            "mainClass": "BannerUC8",
+            "projectName": "oopsbannerapp_ae356853"
+        },
+        {
+            "type": "java",
+            "name": "BannerUC7",
+            "request": "launch",
+            "mainClass": "BannerUC7",
+            "projectName": "oopsbannerapp_ae356853"
+        },
+        {
+            "type": "java",
+            "name": "BannerUC6",
+            "request": "launch",
+            "mainClass": "BannerUC6",
+            "projectName": "oopsbannerapp_ae356853"
+        },
+        {
+            "type": "java",
+            "name": "BannerUC5",
+            "request": "launch",
+            "mainClass": "BannerUC5",
+            "projectName": "oopsbannerapp_ae356853"
+        },
+        {
+            "type": "java",
             "name": "OOPSBannerUC5",
             "request": "launch",
             "mainClass": "OOPSBannerUC5",
